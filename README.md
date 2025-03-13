@@ -46,7 +46,7 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
 1. **Clone the repository**:
     
     ```
-    git clone https://github.com/your-username/AI-Gym-Planner.git
+    git clone https://github.com/eswarsaikiran15/AI-Gym-Planner.git
     cd AI-Gym-Planner
     ```
     
