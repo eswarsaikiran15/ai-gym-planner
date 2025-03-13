@@ -94,7 +94,6 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
 |80|60|Mixed|450|
 |90|40|Strength|380|
 
-
 ## **Summary of Steps**
 
 1. **Import Libraries**
