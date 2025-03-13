@@ -2,13 +2,13 @@
 view live demo: https://ai-gym-planner-1506.streamlit.app/
 
 
-# 🏋️ AI Gym Planner - Calorie Burn Prediction
+#  AI Gym Planner - Calorie Burn Prediction
 
-## 📌 Overview
+##  Overview
 
 The **AI Gym Planner** is a Streamlit-based machine learning web application that predicts **calories burned** based on weight, exercise duration, and exercise type. It also provides personalized **workout recommendations** and visualizes calorie-burning progress over time.
 
-## 🚀 Features
+##  Features
 
 - **Calorie Burn Prediction**: Uses a trained Random Forest Regressor model.
     
@@ -19,7 +19,7 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
 - **Progress Graph**: Displays calories burned over time using Matplotlib & Seaborn.
     
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**
     
@@ -36,7 +36,7 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
 - **Scikit-Learn**
     
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 📁 AI-Gym-Planner
@@ -45,7 +45,7 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
 │── README.md            # Project documentation
 ```
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**:
     
@@ -75,7 +75,7 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
     ```
     
 
-## 🏋️ Usage
+##  Usage
 
 1. **Adjust sliders** to set your weight and exercise duration.
     
@@ -86,7 +86,7 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
 4. View your **personalized workout plan** and **progress graph**.
     
 
-## 📊 Sample Data
+##  Sample Data
 
 |Weight (kg)|Exercise Duration (mins)|Exercise Type|Calories Burned|
 |---|---|---|---|
@@ -94,7 +94,7 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
 |80|60|Mixed|450|
 |90|40|Strength|380|
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 - Uses **RandomForestRegressor** for calorie burn prediction.
     
@@ -107,7 +107,7 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
     - **Exercise Type** (Cardio, Strength, Mixed)
         
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 - Expand the dataset for better model accuracy.
     
