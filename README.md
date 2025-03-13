@@ -1,3 +1,7 @@
+
+view live demo: https://ai-gym-planner-1506.streamlit.app/
+
+
 # 🏋️ AI Gym Planner - Calorie Burn Prediction
 
 ## 📌 Overview
