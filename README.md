@@ -94,6 +94,24 @@ The **AI Gym Planner** is a Streamlit-based machine learning web application tha
 |80|60|Mixed|450|
 |90|40|Strength|380|
 
+
+## **Summary of Steps**
+
+1. **Import Libraries**
+2. **Create Dataset**
+3. **Train Machine Learning Model**
+    - Split data into `X` and `y`
+    - Use `train_test_split()`
+    - Train `RandomForestRegressor`
+4. **Build Streamlit UI**
+    - Title & description
+    - Collect user input via sliders & dropdown
+    - Convert exercise type to numbers
+5. **Make Predictions**
+    - Use trained model to predict `Calories_Burned`
+6. **Provide Personalized Workout Plan**
+7. **Display Progress Chart (Calories Burned Over Time)**
+
 ##  Machine Learning Model
 
 - Uses **RandomForestRegressor** for calorie burn prediction.
